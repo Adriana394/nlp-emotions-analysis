@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+matplotlib
+
+# Data & models
+datasets==2.19.0
+transformers>=4.40
+tensorflow>=2.15
+xgboost
+scikit-learn
+
+# Dimensionality reduction for EDA
+umap-learn
+
+# Notebook runtime
+jupyter
+ipykernel
